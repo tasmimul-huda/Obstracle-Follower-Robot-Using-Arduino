@@ -1,9 +1,10 @@
-[code]
+
 //obstracle follower using pid algorithm for two sonar sensor
 
 //Tuning, a great problem, kp ki kd respectively tuned 
 
-//Auther: Sayed Mohammed Tasmimul Huda
+/*Auther: Sayed Mohammed Tasmimul Huda
+Khulna Univarsity of Engineering & Technology*/
 
 #include<NewPing.h>
 #define ECOPIN1 A2
