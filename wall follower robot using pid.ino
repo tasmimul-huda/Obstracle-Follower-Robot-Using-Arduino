@@ -151,5 +151,3 @@ void loop()
   final();
 }
 
-
-[/code]
